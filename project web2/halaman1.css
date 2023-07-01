@@ -1,0 +1,27 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    display: center;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.contact {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.phone {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.address {
+    font-size: 14px;
+}
